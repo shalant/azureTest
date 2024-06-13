@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\azureTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{416F1D1A-0D70-4996-A2B8-8D88D5E530FA}|azureTest\\azureTest.csproj|c:\\coding\\azuretest\\azuretest\\services\\usdainfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416F1D1A-0D70-4996-A2B8-8D88D5E530FA}|azureTest\\azureTest.csproj|solutionrelative:azuretest\\services\\usdainfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416F1D1A-0D70-4996-A2B8-8D88D5E530FA}|azureTest\\azureTest.csproj|c:\\coding\\azuretest\\azuretest\\controllers\\usdainfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416F1D1A-0D70-4996-A2B8-8D88D5E530FA}|azureTest\\azureTest.csproj|solutionrelative:azuretest\\controllers\\usdainfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\digdr\\AppData\\Local\\SourceServer\\5de89df4c7a53bb0910af05a308572baac450de5390058a77b5049c623875206\\azureTest\\Services\\UsdaInfoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416F1D1A-0D70-4996-A2B8-8D88D5E530FA}|azureTest\\azureTest.csproj|c:\\coding\\azuretest\\azuretest\\models\\usdainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416F1D1A-0D70-4996-A2B8-8D88D5E530FA}|azureTest\\azureTest.csproj|solutionrelative:azuretest\\models\\usdainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416F1D1A-0D70-4996-A2B8-8D88D5E530FA}|azureTest\\azureTest.csproj|c:\\coding\\azuretest\\azuretest\\services\\interfaces\\iusdainfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416F1D1A-0D70-4996-A2B8-8D88D5E530FA}|azureTest\\azureTest.csproj|solutionrelative:azuretest\\services\\interfaces\\iusdainfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 345,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsdaInfoService.cs",
+              "DocumentMoniker": "C:\\Coding\\azureTest\\azureTest\\Services\\UsdaInfoService.cs",
+              "RelativeDocumentMoniker": "azureTest\\Services\\UsdaInfoService.cs",
+              "ToolTip": "C:\\Coding\\azureTest\\azureTest\\Services\\UsdaInfoService.cs",
+              "RelativeToolTip": "azureTest\\Services\\UsdaInfoService.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAIAwwPcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:59:39.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsdaInfoService.cs",
+              "DocumentMoniker": "C:\\Coding\\azureTest\\azureTest\\Services\\Interfaces\\IUsdaInfoService.cs",
+              "RelativeDocumentMoniker": "azureTest\\Services\\Interfaces\\IUsdaInfoService.cs",
+              "ToolTip": "C:\\Coding\\azureTest\\azureTest\\Services\\Interfaces\\IUsdaInfoService.cs",
+              "RelativeToolTip": "azureTest\\Services\\Interfaces\\IUsdaInfoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:52:55.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsdaInfoController.cs",
+              "DocumentMoniker": "C:\\Coding\\azureTest\\azureTest\\Controllers\\UsdaInfoController.cs",
+              "RelativeDocumentMoniker": "azureTest\\Controllers\\UsdaInfoController.cs",
+              "ToolTip": "C:\\Coding\\azureTest\\azureTest\\Controllers\\UsdaInfoController.cs",
+              "RelativeToolTip": "azureTest\\Controllers\\UsdaInfoController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:57:30.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsdaInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\AppData\\Local\\SourceServer\\5de89df4c7a53bb0910af05a308572baac450de5390058a77b5049c623875206\\azureTest\\Services\\UsdaInfoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\digdr\\AppData\\Local\\SourceServer\\5de89df4c7a53bb0910af05a308572baac450de5390058a77b5049c623875206\\azureTest\\Services\\UsdaInfoService.cs",
+              "ToolTip": "C:\\Users\\digdr\\AppData\\Local\\SourceServer\\5de89df4c7a53bb0910af05a308572baac450de5390058a77b5049c623875206\\azureTest\\Services\\UsdaInfoService.cs",
+              "RelativeToolTip": "..\\..\\Users\\digdr\\AppData\\Local\\SourceServer\\5de89df4c7a53bb0910af05a308572baac450de5390058a77b5049c623875206\\azureTest\\Services\\UsdaInfoService.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAjwIQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:38:26.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsdaInfo.cs",
+              "DocumentMoniker": "C:\\Coding\\azureTest\\azureTest\\Models\\UsdaInfo.cs",
+              "RelativeDocumentMoniker": "azureTest\\Models\\UsdaInfo.cs",
+              "ToolTip": "C:\\Coding\\azureTest\\azureTest\\Models\\UsdaInfo.cs",
+              "RelativeToolTip": "azureTest\\Models\\UsdaInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:59:12.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

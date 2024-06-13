@@ -1,0 +1,11 @@
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\azureTest.exe
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\azureTest.dll
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\azureTest.deps.json
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\azureTest.runtimeconfig.json
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\azureTest.pdb
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Coding\azureTest\azureTest\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
